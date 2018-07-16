@@ -107,6 +107,10 @@ li {
   padding: 0 1em;
 }
 
+.extra a {
+  color: #000;
+}
+
 .secondary {
   float: right;
   padding-right: 2em;
@@ -123,6 +127,10 @@ li {
   font-weight: 400;
   font-size: 1.2em;
   border-style: none;
+}
+
+.new-skill {
+  padding-top: 2em;
 }
 
 /* ---- Layout Containers ---- */
